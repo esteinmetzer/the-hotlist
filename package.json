@@ -1,0 +1,12 @@
+{
+  "name": "the-hotlist",
+  "version": "1.0.0",
+  "description": "Reserves your table",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
